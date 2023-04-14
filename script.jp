@@ -1,0 +1,7 @@
+
+var typed= new typed("span",{
+    strings: ["Bianca Caetano.", "desiger UX e UI",],
+    typeSpeed: 70,
+    backSpeed: 60,
+    loop: true
+});
